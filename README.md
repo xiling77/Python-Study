@@ -1,4 +1,4 @@
-# Python-study
+# Python-Study
 
 本仓库是我的第一个仓库，主要用于记录自己学习Python的过程。
 
